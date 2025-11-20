@@ -1,0 +1,72 @@
+Synchronized at:
+ []
+with durations:
+ []
+Avg:
+ 0
+
+----------------------------------------------------------
+
+Values used: last 100%
+
+Sending Rate:
+Connection            Median           Mean        Std Dev            Min            Max
+0                9780000.000    8846393.166    4819243.775    480000.000  19980000.000
+1                9780000.000    8846393.166    4819243.775    480000.000  19980000.000
+
+Throughput:
+Connection            Median           Mean        Std Dev            Min            Max
+0                8760000.000    8549635.288    4765364.960    480000.000  19860000.000
+1                8760000.000    8528261.200    4778516.009         0.000  19860000.000
+
+Fairness:
+Connection            Median           Mean        Std Dev            Min            Max
+Throughput             1.000          1.000          0.000         1.000         1.000
+Sending Rate           1.000          1.000          0.000         1.000         1.000
+
+Avg Rtt:
+Connection            Median           Mean        Std Dev            Min            Max
+0                     61.534         76.709         26.860        50.786       127.266
+
+Inflight:
+Connection            Median           Mean        Std Dev            Min            Max
+0                 539826.856     738207.762     390632.048     46336.000   2011267.432
+
+BDP:
+Connection            Median           Mean        Std Dev            Min            Max
+
+Buffer Backlog:
+Connection            Median           Mean        Std Dev            Min            Max
+
+----------------------------------------------------------
+
+Values used: last 30.0%
+
+Sending Rate:
+Connection            Median           Mean        Std Dev            Min            Max
+0               10080000.000    9905042.017    1137451.725   2040000.000  10800000.000
+1               10080000.000    9905042.017    1137451.725   2040000.000  10800000.000
+
+Throughput:
+Connection            Median           Mean        Std Dev            Min            Max
+0                9180000.000    8948571.429    1031789.085   1800000.000   9720000.000
+1                9180000.000    8874000.000    1310520.507         0.000   9720000.000
+
+Fairness:
+Connection            Median           Mean        Std Dev            Min            Max
+Throughput             1.000          1.000          0.000         1.000         1.000
+Sending Rate           1.000          1.000          0.000         1.000         1.000
+
+Avg Rtt:
+Connection            Median           Mean        Std Dev            Min            Max
+0                    113.203        108.652         19.027        50.786       127.266
+
+Inflight:
+Connection            Median           Mean        Std Dev            Min            Max
+0                1152866.242    1200873.775     251583.482    232733.091   2011267.432
+
+BDP:
+Connection            Median           Mean        Std Dev            Min            Max
+
+Buffer Backlog:
+Connection            Median           Mean        Std Dev            Min            Max

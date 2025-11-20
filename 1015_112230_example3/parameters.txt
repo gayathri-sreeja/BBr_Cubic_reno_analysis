@@ -1,0 +1,17 @@
+Test Name: example3
+Date: Wed Oct 15 11:22:30 2025
+Kernel: b'6.8.0-85-generic #85~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 16:18:59 UTC 2 GNU/Linux'
+Git Commit: b'd5c860369d77b53e59e8a4a7358391bcba7767ac'
+Initial Bandwidth: 10Mbit
+Burst Buffer: 1600b
+Buffer Latency: 100ms
+Initial Link RTT: 0ms
+Initial Link Loss: 0%
+Commands: 
+host, bbr, 50ms, 0.0, 80.0
+link, bw, 20mbit, 10.0
+link, bw, 5mbit, 10.0
+link, rtt, 50ms, 15.0
+link, rtt, 0ms, 20.0
+link, bw, 10mbit, 0.0
+link, loss, 10%, 0.0
